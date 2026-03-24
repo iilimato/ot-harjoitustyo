@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka, harjoitustyö
 
-Tässä harjoitustyössä kehitetään **yksinkertainen flash card-opiskelusovellus**, jonka toiminnallisuuksia on esimerkiksi *omien sanaparien lisääminen, sanaparien lisääminen tiedostosta, graafin piirtäminen opiskelutahdista ja vanhojen sanojen kertaaminen*.
+Tässä harjoitustyössä kehitetään **yksinkertainen kuntosalitreenien seurantasovellus**, jonka toiminnallisuuksia on esimerkiksi *omien liikkeiden lisääminen, omien treenien kirjaaminen, graafien piirtäminen omasta kehityksestä ja omien ennätysten seuraaminen*.
 
 ## Linkki laskareihin
 - [Laskarit](laskarit/)
