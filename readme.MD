@@ -4,3 +4,11 @@ Tässä harjoitustyössä kehitetään **yksinkertainen flash card-opiskelusovel
 
 ## Linkki laskareihin
 - [Laskarit](laskarit/)
+
+
+## Linkki vaatimusmäärittelyyn
+- [Vaatimusmäärittely](/ot-harjoitustyo/dokumentaatio/vaatimusmaarittely.md)
+
+
+## Linkki työaikakirjanpitoon
+- [Työaikakirjanpito](/ot-harjoitustyo/dokumentaatio/tuntikirjanpito.md)
