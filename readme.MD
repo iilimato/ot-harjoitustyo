@@ -7,8 +7,8 @@ Tässä harjoitustyössä kehitetään **yksinkertainen kuntosalitreenien seuran
 
 
 ## Linkki vaatimusmäärittelyyn
-- [Vaatimusmäärittely](/ot-harjoitustyo/dokumentaatio/vaatimusmaarittely.md)
+- [Vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
 
 
 ## Linkki työaikakirjanpitoon
-- [Työaikakirjanpito](/ot-harjoitustyo/dokumentaatio/tuntikirjanpito.md)
+- [Työaikakirjanpito](/dokumentaatio/tuntikirjanpito.md)
