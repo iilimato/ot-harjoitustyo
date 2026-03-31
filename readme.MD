@@ -12,3 +12,6 @@ Tässä harjoitustyössä kehitetään **yksinkertainen kuntosalitreenien seuran
 
 ## Linkki työaikakirjanpitoon
 - [Työaikakirjanpito](/dokumentaatio/tuntikirjanpito.md)
+
+## Linkki changelogiin
+- [Changelog](/dokumentaatio/changelog.md)
