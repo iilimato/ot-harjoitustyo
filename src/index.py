@@ -9,6 +9,8 @@ def show_exercises(exercises):
     for e in exercises:
         print(f"  {e.id}) {e.name} ({e.muscle_group})")
 
+# tekoälyn generoima osio alkaa
+
 
 def log_session(exercises, workout_repo, set_repo):
     workout = workout_repo.create()
@@ -40,6 +42,8 @@ def log_session(exercises, workout_repo, set_repo):
 
         except ValueError:
             print("Virheellinen syöte.")
+
+# tekoälyn generoima osio päättyy
 
 
 def main():
